@@ -14,3 +14,4 @@ m. write a script that prints the type of file named iamafile. the file iamafile
 n. create a symbolic link to /bin/ls, named _ls_ the symbolic link should be created in the current working directory
 o. create a script that copies all the html files from the current working directory to the parent of the working directory.but only copy files that did not exist on the parent of the working directory or were newer than the versions in the parent of the working directory. you can consider that all html files have the extension .html
 p. create a script that moves all files beginning with an uppercase letter to the directory /tmp/u. you can assume that the directory /tmp/u will exist when we will run your script
+q. create a script that deletes all files in the current working directory that end with the character ~
