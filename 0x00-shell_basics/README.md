@@ -11,4 +11,5 @@ j. delete the directory my_first_directory that is in the /tmp/ directory
 k. a script that changes the working directory to the previous one
 l. write a script that lists all the files even the ones with names beginning with aperios character, which are normally hidden, in the current directory and the parentof the working directory and the /boot directory, in this order. in long format
 m. write a script that prints the type of file named iamafile. the file iamafile will be in the /tmp directory when we will run your script
+n. create a symbolic link to /bin/ls, named _ls_ the symbolic link should be created in the current working directory
  
