@@ -6,4 +6,7 @@ e. the fifth script displays all files even the one that start with . and it use
 f. display current directory contents in the long format with user and group ids numerically and also the hidden files starting with .
 g. create a directory names my_first_directory in the /tmp/ directory
 h. move the file betty from /tmp/ to /tmp/my_first_directory
-
+i. delete the file betty from /tmp/my_first_directory
+j. delete the directory my_first_directory that is in the /tmp/ directory
+k. a script that changes the working directory to the previous one
+l. write a script that lists all the files even the ones with names beginning with aperios character, which are normally hidden, in the current directory and the parentof the working directory and the /boot directory, in this order. in long format 
