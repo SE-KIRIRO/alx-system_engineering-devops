@@ -10,5 +10,7 @@ h. write a script that adds execution permission to the owner, the group owner a
 i. write a script that sets the permission to the file hello as follows: the owner has no permission at all, the group has no permission at all and finally the other users hava all the permissions. commas are not allowed for this script.
 j. write a script that sets the mode of the file hello to the example given below.
 k. write a script that sets the mode of the file hello the same as olleh's mode. the file hello will be in the working directory and the file olleh will also be in the working directory.
+l. create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. regular files should not be changed.
+m. create a script that creates a directory called my_dir with permissions 751 in the working directory.
 
 
