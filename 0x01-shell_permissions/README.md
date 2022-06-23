@@ -12,5 +12,7 @@ j. write a script that sets the mode of the file hello to the example given belo
 k. write a script that sets the mode of the file hello the same as olleh's mode. the file hello will be in the working directory and the file olleh will also be in the working directory.
 l. create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. regular files should not be changed.
 m. create a script that creates a directory called my_dir with permissions 751 in the working directory.
+n. write a script that changes the group owner to school for the file hello. the file hello will be in the working directory
+o. write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
 
