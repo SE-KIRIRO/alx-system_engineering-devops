@@ -14,5 +14,7 @@ l. create a script that adds execute permission to all subdirectories of the cur
 m. create a script that creates a directory called my_dir with permissions 751 in the working directory.
 n. write a script that changes the group owner to school for the file hello. the file hello will be in the working directory
 o. write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+p. write a script that changes the owner and the group owner of __hello to vincent and staff respectively. the file __hello is in the working directory. the file __hello is also__ a symbolic link.
+q. write a script that changes the owner of the file hello to betty only if it is owned by user guillaume. the file hello will be in the working directory.
 
 
