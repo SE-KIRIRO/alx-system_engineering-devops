@@ -8,5 +8,7 @@ f. write a script that adds the execute permission to the owner of the file hell
 g. write a script that adds execute permission to the owner and the group owner and read permission to other users, to the file hello
 h. write a script that adds execution permission to the owner, the group owner and the other users, to the file hello. one is not allowed to use commas for this script.
 i. write a script that sets the permission to the file hello as follows: the owner has no permission at all, the group has no permission at all and finally the other users hava all the permissions. commas are not allowed for this script.
+j. write a script that sets the mode of the file hello to the example given below.
+k. write a script that sets the mode of the file hello the same as olleh's mode. the file hello will be in the working directory and the file olleh will also be in the working directory.
 
 
