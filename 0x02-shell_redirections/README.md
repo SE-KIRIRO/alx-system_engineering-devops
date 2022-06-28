@@ -9,3 +9,4 @@ F. display the first 10 lines of /etc/passwd
 G. write a script that displays the third line of the file iacta.
 	the file iacta will be in the working directory
 	the use of sed id not allowed.
+H. Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
